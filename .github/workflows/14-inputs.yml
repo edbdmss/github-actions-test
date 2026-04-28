@@ -1,4 +1,4 @@
-name: 14. inputs 활용
+name: 03. inputs 활용
 on:
   workflow_dispatch:
     inputs:
